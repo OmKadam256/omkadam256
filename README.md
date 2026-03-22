@@ -44,11 +44,6 @@ Real-time hand gesture recognition system integrated with NLP for accessibility
 
 ---
 
-## 📊 GitHub Stats
-
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkadam256\&show_icons=true\&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
