@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Om Kadam
 
-🚀 Flutter Developer | AI/ML Enthusiast | Hackathon Finalist
+🚀 Java Developer | Flutter Developer | AI/ML Enthusiast
 
-💡 I build real-world products using AI + Mobile Apps
-🏆 Top 5 Incuverse Hackathon | Top 10 Elevate
+💡 Building scalable backend systems and real-world mobile applications
+🏆 Top 5 Incuverse Hackathon | Top 10 Elevate Hackathon
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 B.Tech Computer Engineering @ FCRIT Vashi
-* 📱 Flutter Developer (Apps + UI/UX)
-* 🤖 Interested in AI, ML & Fraud Detection Systems
-* 💡 Love building MVPs during hackathons
+* 💻 Java Backend Developer (Spring Boot - learning & building)
+* 📱 Flutter Developer (Cross-platform apps)
+* 🤖 Passionate about AI, ML & Fraud Detection Systems
+* ⚡ Strong in MVP development & hackathon problem solving
 
 ---
 
@@ -20,8 +21,10 @@
 
 💻 Languages: Java, Python, C
 📱 Mobile: Flutter, React
-🧠 AI/ML: Basics, NLP, LangChain
-🛠 Tools: Git, n8n, SQL
+🧠 AI/ML: Machine Learning Basics, NLP, LangChain
+⚙️ Backend: Spring Boot (Learning & Projects)
+☁️ DevOps: Docker, Kubernetes (Basics)
+🛠 Tools: Git, GitHub, n8n, SQL
 
 ---
 
@@ -29,15 +32,15 @@
 
 ### 🔐 Nityalaxmi (Finance App)
 
-Secure personal finance management app for Indian users
+Secure personal finance management system designed for Indian users with a strong focus on security and usability
 
 ### 🧠 Disease Detection System
 
-ML-based disease prediction prototype
+Machine Learning-based system for predicting diseases using healthcare data
 
 ### ✋ ASL to Text/Speech
 
-Hand gesture recognition + NLP pipeline
+Real-time hand gesture recognition system integrated with NLP for accessibility
 
 ---
 
@@ -49,7 +52,10 @@ Hand gesture recognition + NLP pipeline
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/om-kadam
-* Email: [omkadam256@gmail.com](mailto:omkadam256@gmail.com)
+* 🔗 LinkedIn: https://linkedin.com/in/om-kadam
+* 📧 Email: [omkadam256@gmail.com](mailto:omkadam256@gmail.com)
 
-🔥 Always open for Hackathons & Collaborations!
+---
+
+🚀 *Actively looking for opportunities in Java Backend Development, AI/ML, and Product-Based Roles*
+🔥 *Open to Hackathons, Internships & Collaborations*
